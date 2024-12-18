@@ -68,5 +68,48 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+      {
+            "title": "Alien",
+            "iscore": 8.5,
+            "rating": "R",
+            "runtime": 117,
+            "released": [1979, 6, 22],
+            "country": "USA",
+            "posters": ["img/alien1.jpg", "img/alien2.jpg", "img/alien3.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "My Cousin Vinny",
+            "iscore": 7.6,
+            "rating": "R",
+            "runtime": 120,
+            "released": [1992, 3, 13],
+            "country": "USA",
+            "posters": ["img/mycousinvinny1.jpg", "img/mycousinvinny2.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0104952/",
+            "website": "https://en.wikipedia.org/wiki/My_Cousin_Vinny",
+            "likes": 859,
+            "dislikes": 145,
+            "posterindex": 0
+      },
+      {
+            "title": "Memento",
+            "iscore": 8.4,
+            "rating": "R",
+            "runtime": 113,
+            "released": [2001, 5, 25],
+            "country": "USA",
+            "posters": ["img/memento1.jpg", "img/memento2.jpg", "img/memento3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0104952/",
+            "website": "https://en.wikipedia.org/wiki/My_Cousin_Vinny",
+            "likes": 859,
+            "dislikes": 145,
+            "posterindex": 0
       }
+
 ]
